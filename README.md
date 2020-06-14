@@ -1,9 +1,8 @@
 # Assignment3
-A3 – Simple encoder / decoder program
+# A3 – Simple encoder / decoder program
 
 The A3 module uses a simple Caesar cipher to encrypt and decrypt strings.
 
-       Constants
 The A3 module exports the following constants:
 
 A3.createDictionaries(file_path)
